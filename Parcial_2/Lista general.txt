@@ -1,0 +1,9 @@
+
+Pedro: No realizo el pago
+Juan: Pago realizado
+Alfredo: No realizo el pago
+Emiliano: Pago realizado
+Carlos: No realizo el pago
+Karen: Pago realizado
+Andrea: No realizo el pago
+Freddy: Pago realizado
