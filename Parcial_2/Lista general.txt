@@ -2,8 +2,10 @@
 Pedro: No realizo el pago
 Juan: Pago realizado
 Alfredo: No realizo el pago
-Emiliano: Pago realizado
-Carlos: No realizo el pago
-Karen: Pago realizado
-Andrea: No realizo el pago
-Freddy: Pago realizado
+Carmen: Pago realizado
+Emiliano: No realizo el pago
+Carlos: Pago realizado
+Emiliano: No realizo el pago
+Catalina: No realizo el pago
+Wilver: Pago realizado
+Karol: No realizo el pago
